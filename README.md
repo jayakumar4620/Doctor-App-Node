@@ -13,7 +13,7 @@ Url : http://localhost:8080/api/appointmentCreate
        "name":"jayakumar",
       "email": "jaikumarbe2018@hotmail.com",
       "phone": "8124160951",
-     "slots":"2",(slot id in appointment list)
+     "slots":"2",(get slot id through hover the time slot list)
      "gender":"male",
      "age":"24"
 }
